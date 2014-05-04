@@ -3,6 +3,6 @@ Writings
 
 Here be my (academic) writings.
 
-Unless specified otherwise, all of these texts are protected under [Creative Commons Attribution-ShareAlike 3.0 Unported](http://creativecommons.org/licenses/by-sa/3.0/) license.
+Unless specified otherwise, all texts are shared under [Creative Commons Attribution-ShareAlike 2.5 India](http://creativecommons.org/licenses/by-sa/2.5/in/) license.
 
-However, while quoting/refering to any of the texts, please remember that most of these are work-in-progress.
+While refering to any of the texts, please remember that most of these are work-in-progress.
