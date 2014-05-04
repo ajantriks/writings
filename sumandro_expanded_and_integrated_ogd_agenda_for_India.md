@@ -1,7 +1,7 @@
 Towards an Expanded and Integrated Open Government Data Agenda for India
 ========================================================================
 
-*Note: Paper submitted and presented at the 7th International Conference on Theory and Practice of Electronic Governance (ICEGOV), October 22–25, 2013, Seoul, Republic of Korea.*
+*Note: This is the pre-publication version of the paper presented at the 7th International Conference on Theory and Practice of Electronic Governance (ICEGOV), October 22–25, 2013, Seoul, Republic of Korea. It has been published as part of the conference proceedings by ACM Digital Library. DOI: [10.1145/2591888.2591923] (http://dx.doi.org/10.1145/2591888.2591923).*
 
 Abstract
 --------
@@ -107,7 +107,8 @@ Author
 
 Sumandro Chattapadhyay
 
-Research Associate, [HasGeek Media LLP](http://hasgeek.com/), Bangalore and [The Sarai Programme, CSDS](http://www.csds.in/), Delhi, India
+Research Associate, [The Sarai Programme](http://sarai.net/), Centre for the Study of Developing Societies, Delhi, India
 
-[www.ajantriks.net](http://www.ajantriks.net) | [mail@ajantriks.net](mailto:mail@ajantriks.net)
+[www.ajantriks.net](http://www.ajantriks.net)
 
+[mail@ajantriks.net](mailto:mail@ajantriks.net)
