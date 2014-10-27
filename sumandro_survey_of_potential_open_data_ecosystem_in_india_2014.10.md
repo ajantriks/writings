@@ -1,12 +1,14 @@
 Access and Use of Government Data by Research and Advocacy Organisations in India: A Survey of (Potential) Open Data Ecosystem
 ==============================================================================================================================
 
-*Paper accepted for presentation at the Eighth International Conference on Theory and Practice of Electronic Governance (ICEGOV). Pre-publication version.*
+*Paper accepted for presentation at the Eighth International Conference on Theory and Practice of Electronic Governance (ICEGOV). This is the pre-publication version.*
 
 Sumandro Chattapadhyay 
-Research Associate, 
+
+Research Associate 
+
 The Sarai Programme, Centre for the Study of Developing Societies, Delhi, India 
-+91 78381 63651 
+
 mail@ajantriks.net
 
 Abstract
@@ -88,12 +90,19 @@ I am grateful to Zainab Bawa, Michael Gurstein, Tim Davies,  Nisha Thompson, and
 -------------
 
 [1] Magalhaes, Gustavo, Catarina Roseira, and Sharon Strover. 2013. Open Government Data Intermediaries: A Terminology Framework. In Proceedings of the 7th International Conference on Theory and Practice of Electronic Governance (ICEGOV '13) Tomasz Janowski, Jeanne Holm, and Elsa Estevez (Eds.). ACM, New York, NY, USA. DOI= 978-1-4503-2456-4/00/0010. 
+
 [2] Deloitte Analytics. 2012. Open Growth: Stimulating Demand for Open Data in the UK. Briefing Note. Retrieved from: <http://www.deloitte.com/assets/Dcom-UnitedKingdom/Local%20Assets/Documents/Market%20insights/Deloitte%20Analytics/uk-da-open-growth.pdf>. 
+
 [3] Pollock, Rufus. 2011. Building the (Open) Data Ecosystem. Open Knowledge Foundation Blog. March 31. Retrieved from: http://blog.okfn.org/2011/03/31/building-the-open-data-ecosystem/. 
+
 [4] Hagel III, John and Jeffrey F. Rayport. 1997. The Coming Battle for Customer Information. Harvard Business Review. January-February. Pp. 6-11. 
+
 [5] Rose, F. 1999. The Economics, Concept, and Design of Information Intermediaries: A Theoretic Approach. Heidelberg, Germany: Physica-Verlag. 
+
 [6] Womack, Ryan. 2002. Information Intermediaries and Optimal Information Distribution. Library and Information Science Research. 24. Pp. 129-155. 
+
 [7] Department of Science and Technology, Government of India. 2012. National Data Sharing and Accessibility Policy. The Gazette of India. March 17. Pp. 74-99. Retrieved from: http://data.gov.in/sites/default/files/NDSAP.pdf. 
+
 [8] Verma, Neeta and M. P. Gupta. 2013. Open Government Data: Beyond Policy & Portal, a Study in Indian context. In Proceedings of the 7th International Conference on Theory and Practice of Electronic Governance (ICEGOV '13) Tomasz Janowski, Jeanne Holm, and Elsa Estevez (Eds.). ACM, New York, NY, USA. DOI = 10.1145/2591888.2591949.
 
-Shared under Creative Commons [Attribution-ShareAlike 4.0 International] (http://creativecommons.org/licenses/by-sa/4.0/) license.
+This pre-publication version is shared under Creative Commons [Attribution-ShareAlike 4.0 International] (http://creativecommons.org/licenses/by-sa/4.0/) license.
