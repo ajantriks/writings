@@ -165,4 +165,4 @@ David Eaves - [Lies, Damned Lies, and Open Data] (http://www.slate.com/articles/
 
 Jeffrey Alan Johnson - [From Open Data to Information Justice] (http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2241092)
 
-Compiled by Sumandro Chattapadhyay // <ajantriks.net> // October 13, 2014 // CC BY-SA 4.0 International
+Compiled by Sumandro Chattapadhyay // [ajantriks.net] (http://ajantriks.net) // October 13, 2014 // CC BY-SA 4.0 International
