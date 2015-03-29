@@ -18,7 +18,7 @@ WSIS Geneva and participation by Asian civil society organisations.
 
 Statement of the Civil Society in Response to the WSIS Draft Declaration [4]:
 
-“The information society described in the document is characterized by uniformity, technocracy and bargaining. It lacks any vision that is people and citizen centered: there is little or no mention of the poor, workers and marginalized groups including indigenous people, refugees, people with disabilities. The emphasis on diversity of peoples, cultures and ways of living is still far from sufficient. Our contributions throughout this process of shaping a common vision of an inclusive, democratic and sustainable information society, have not been given serious consideration”.
+*“The information society described in the document is characterized by uniformity, technocracy and bargaining. It lacks any vision that is people and citizen centered: there is little or no mention of the poor, workers and marginalized groups including indigenous people, refugees, people with disabilities. The emphasis on diversity of peoples, cultures and ways of living is still far from sufficient. Our contributions throughout this process of shaping a common vision of an inclusive, democratic and sustainable information society, have not been given serious consideration”.*
 
 WSIS Tunis and participation by Asian civil society organisations.
 
